@@ -1,0 +1,19 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/googletest/googletest/include",
+      "-isystem",
+      "/home/forrest/Project/work/cpp/myrender/core/thirdpart/googletest/googletest/include",
+      "-isystem",
+      "/home/forrest/Project/work/cpp/myrender/core/thirdpart/googletest/googletest",
+      "-c",
+      "-o",
+      "CMakeFiles/tmp.dir/tmp.cpp.o",
+      "/home/forrest/Project/work/cpp/myrender/core/test/tmp.cpp"
+    ],
+    "directory": "/home/forrest/Project/work/cpp/myrender/build/core/test",
+    "file": "/home/forrest/Project/work/cpp/myrender/core/test/tmp.cpp",
+    "output": "/home/forrest/Project/work/cpp/myrender/build/core/test/CMakeFiles/tmp.dir/tmp.cpp.o"
+  }
+]
